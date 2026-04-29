@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Roberto! 👋
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roberto-feresin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-feresinn/)
 
 ![Roberto Feresin GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoFeresin&hide=contribs,prs)
 
@@ -25,7 +25,9 @@
 
 Atualmente estou estudando Análise em Desenvolvimento de Sistemas, tenho habilidade com linguagens de programação orientadas a objetos e afinidade com sistemas embarcados. Sonho em um dia trabalhar dentro do mundo da Engenharia da Computação e contribuir em grandes projetos para desenvolver minhas hard's skills e soft skills.
 
-Sou apaixonado pela tecnologia e quero ensinar as pessoas como conseguimos utilizar ela em nossos dias dias.
+Trabalho como Analista Trainee em desenvolvimento de portais, onde juntamos as integrações de ferramentas do mercado como HCL, Liferay, GCP e AWS criando soluções para nossos clientes.
+
+Tenho o foco de me especializar em desenvolvedor de software, tanto no front quanto backend. (fullstack)
 
 ## Ficou interessado? Conheça um pouco mais sobre mim!🦾
 
