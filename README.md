@@ -8,19 +8,27 @@
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
-    <img olign="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img olign="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img olign="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-    
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img align="center" alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
 <br/>
 
 
-Atualmente estou estudando Automação Industrial, tenho habilidade com linguagens de programação orientadas a objetos e afinidade com sistemas embarcados. Sonho em um dia trabalhar dentro do mundo da Engenharia da Computação.
+Atualmente estou estudando Análise em Desenvolvimento de Sistemas, tenho habilidade com linguagens de programação orientadas a objetos e afinidade com sistemas embarcados. Sonho em um dia trabalhar dentro do mundo da Engenharia da Computação e contribuir em grandes projetos para desenvolver minhas hard's skills e soft skills.
 
 Sou apaixonado pela tecnologia e quero ensinar as pessoas como conseguimos utilizar ela em nossos dias dias.
 
-### Ficou interessado? Conheça um pouco mais sobre mim!🦾
+## Ficou interessado? Conheça um pouco mais sobre mim!🦾
+
+#### Neste projeto foi onde comecei a gostar e interessar sobre a tecnologia aplicando meus conhecimentos para desenvolver soluções
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sustentabilidade360.blogspot.com/2024/05/introducao-para-comecarmos-entender.html)
